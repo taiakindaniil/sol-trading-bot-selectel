@@ -1,6 +1,6 @@
 # sol-trading-bot-selectel
 
-![screenshot](https://github.com/taiakindaniil/sol-trading-bot-selectel/blob/main/photo_2025-04-20%2017.44.53.jpeg?raw=true)
+![screenshot](https://github.com/taiakindaniil/sol-trading-bot-selectel/blob/main/sol-trading.jpeg?raw=true)
 
 ## Описание проекта
 Полноценный торговый терминал внутри Telegram, созданный для быстрой и удобной торговли токенами на блокчейне Solana. Пользователю не нужно устанавливать отдельные приложения или регистрироваться на сайтах — всё работает прямо из Telegram, с интуитивно понятным интерфейсом и мгновенным откликом.
